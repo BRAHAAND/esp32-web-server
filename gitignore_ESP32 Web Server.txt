@@ -1,0 +1,29 @@
+# Arduino IDE build directories
+build/
+
+# Compiled object files and binaries
+*.bin
+*.elf
+*.hex
+*.map
+*.a
+*.o
+
+# Arduino IDE temporary/backup files
+*.orig
+*.bak
+
+# VS Code / PlatformIO directories (if you switch IDEs later)
+.vscode/
+.pio/
+
+# macOS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows generated files
+ehthumbs.db
+Thumbs.db
