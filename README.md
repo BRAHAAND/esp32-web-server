@@ -1,4 +1,3 @@
-[project_readme.md](https://github.com/user-attachments/files/32955179/project_readme.md)
 # esp32-web-server: LED Control
 
 A beginner-friendly Internet of Things (IoT) project that turns an ESP32 microcontroller into a standalone Wi-Fi web server. By connecting to this server through any web browser on your local network, you can wirelessly control the ESP32's built-in LED.
