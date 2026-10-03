@@ -3,13 +3,13 @@
 
 A beginner-friendly Internet of Things (IoT) project that turns an ESP32 microcontroller into a standalone Wi-Fi web server. By connecting to this server through any web browser on your local network, you can wirelessly control the ESP32's built-in LED.
 
-## 🛠️ Hardware Requirements
+## Hardware Requirements
 * Any standard **ESP32 Development Board**
 * A data-capable Micro-USB or USB-C cable (ensure it is not a "charge-only" cable)
 * A computer (Windows, Mac, or Linux)
 * A local Wi-Fi network
 
-## 💻 Software Setup
+## Software Setup
 
 1. **Install the Arduino IDE:** Download and install it from the [official Arduino website](https://www.arduino.cc/en/software).
 2. **Install the ESP32 Board Add-on:**
@@ -18,7 +18,7 @@ A beginner-friendly Internet of Things (IoT) project that turns an ESP32 microco
    * Go to **Tools** > **Board** > **Boards Manager**, search for "esp32", and install the package by Espressif Systems.
 3. **USB Drivers:** If your computer does not recognize the ESP32 port, you may need to install the USB-to-Serial drivers (usually **CP210x** or **CH340** depending on your specific board model).
 
-## 🚀 Step-by-Step Usage Guide
+## Step-by-Step Usage Guide
 
 ### 1. Configure the Code
 1. Clone this repository or download the files.
